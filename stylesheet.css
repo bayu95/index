@@ -85,6 +85,18 @@ footer{
 
 }
 
+@media screen and (max-width: 320px){
+
+  div.menuUp a{
+    font-size: 13px;
+    padding: 15px 9.3px;
+  }
+
+  div#menuUpE{
+    padding: 23px;
+  }
+}
+
 #menuUpE{
   padding: 45px;
   border-bottom: 3px solid #FFC300;
