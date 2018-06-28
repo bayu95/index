@@ -85,7 +85,7 @@ footer{
 
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 407px){
 
   div.menuUp a{
     font-size: 13px;
